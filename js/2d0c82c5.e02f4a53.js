@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["2d0c82c5"],{"546f":function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("router-view")},r=[],u={name:"PageAdmin"},a=u,l=t("2877"),i=Object(l["a"])(a,c,r,!1,null,null,null);n["default"]=i.exports}}]);
